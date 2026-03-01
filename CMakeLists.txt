@@ -8,4 +8,4 @@ set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O3 -g")
 enable_testing()
 
 add_subdirectory(src)
-add_subdirectory(test)
+add_subdirectory(test) 
