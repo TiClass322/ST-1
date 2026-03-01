@@ -82,4 +82,4 @@ TEST(SumPrimeTest, SumBelowLargerBounds) {
     EXPECT_EQ(sumPrime(11), 17);
     EXPECT_EQ(sumPrime(12), 28);
     EXPECT_EQ(sumPrime(20), 77);
-} 
+}
